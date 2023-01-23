@@ -863,7 +863,8 @@ h6 {
   transition: transform 0.5s ease 0s;
   transition: transform 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
   max-width: 18.75rem;
-  width: 100%;
+  width: 18.75rem;
+  height: 12.5rem;
 }
 
 .main-slider__title {
@@ -877,7 +878,7 @@ h6 {
 
 .main-slider__price {
   font-size: 1.125rem;
-  color: grey;
+  color: #6f6f6f;
 }
 
 .special {
