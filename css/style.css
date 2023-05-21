@@ -558,7 +558,7 @@ h6 {
       -ms-flex-align: center;
           align-items: center;
   gap: 0.625rem;
-  color: #888888;
+  color: #666262;
 }
 
 @supports (gap: clamp( 0.3125rem , 0.2220022624rem  +  0.4524886878vw , 0.625rem )) {
@@ -693,7 +693,7 @@ h6 {
 }
 
 .footer__menu-item {
-  color: #888888;
+  color: #666262;
 }
 
 @supports (padding-bottom: clamp( 1.25rem , -0.5599547511rem  +  9.0497737557vw , 7.5rem )) {
@@ -895,7 +895,7 @@ h6 {
 
 .main-slider__price {
   font-size: 1.125rem;
-  color: #6f6f6f;
+  color: #4b4b4b;
 }
 
 .special {
@@ -1014,6 +1014,8 @@ h6 {
   z-index: -1;
   -webkit-clip-path: polygon(100% 0, 0% 100%, 100% 100%);
           clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .goods-main__title {
@@ -1033,7 +1035,7 @@ h6 {
 }
 
 .goods-main__subtitle {
-  color: grey;
+  color: rgb(72, 72, 72);
 }
 
 @supports (font-size: clamp( 1rem , 0.92760181rem  +  0.3619909502vw , 1.25rem )) {
@@ -1119,10 +1121,12 @@ h6 {
   height: 100%;
   -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%);
           clip-path: polygon(0 0, 0 100%, 100% 100%);
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .goods-secondary__subtitle {
-  color: grey;
+  color: rgb(84, 83, 83);
   font-size: 0.875rem;
 }
 
@@ -1421,7 +1425,7 @@ h6 {
     position: absolute;
     top: 0;
     font-size: 1.25rem;
-    border: 1px solid #888888;
+    border: 1px solid #666262;
     z-index: 55;
     border-radius: 0.625rem;
     left: 0;
@@ -1594,7 +1598,7 @@ h6 {
             flex-direction: column;
     padding-top: 7.5rem;
     padding-bottom: 0.625rem;
-    border-bottom: 1px solid #888888;
+    border-bottom: 1px solid #666262;
     max-width: 18.75rem;
     margin: auto;
   }
