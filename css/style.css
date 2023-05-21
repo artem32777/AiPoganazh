@@ -974,7 +974,7 @@ h6 {
 }
 
 .special__button {
-  background-color: #4bb46e;
+  background-color: #359655;
   padding: 0.3125rem 0.625rem;
   border-radius: 1.25rem;
   color: #fff;
@@ -1063,7 +1063,7 @@ h6 {
 }
 
 .goods-main__button {
-  background-color: #4bb46e;
+  background-color: #359655;
   border-radius: 1.25rem;
   padding: 0.625rem 1.25rem;
   color: #fff;
@@ -1140,7 +1140,7 @@ h6 {
 
 .goods-secondary__button {
   max-width: 6.875rem;
-  background-color: #4bb46e;
+  background-color: #359655;
   border-radius: 1.25rem;
   padding: 0.3125rem 0.625rem;
   color: #fff;
@@ -1175,14 +1175,14 @@ h6 {
 }
 
 .advantages__item:first-child {
-  background-color: #4bb46e;
+  background-color: #359655;
   color: #fff;
   -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
           box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 
 .advantages__item:first-child .advantages__image {
-  color: #4bb46e;
+  color: #359655;
 }
 
 .advantages__item:first-child .advantages__image-body {
@@ -1194,7 +1194,7 @@ h6 {
   -ms-grid-column-align: start;
       justify-self: start;
   z-index: 1;
-  background-color: #4bb46e;
+  background-color: #359655;
   padding: 0.625rem;
   height: 3.75rem;
   width: 3.125rem;
@@ -1746,7 +1746,7 @@ h6 {
   }
 
   .special__item-link:hover .special__name {
-    color: #4bb46e;
+    color: #359655;
   }
 
   .special__button {
