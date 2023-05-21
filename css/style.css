@@ -939,7 +939,7 @@ h6 {
   -webkit-transition: color 0.3s ease 0s;
   -o-transition: color 0.3s ease 0s;
   transition: color 0.3s ease 0s;
-  color: grey;
+  color: rgb(79, 78, 78);
   font-weight: 600;
   font-size: 1rem;
   margin-bottom: 0.625rem;
@@ -970,11 +970,11 @@ h6 {
 }
 
 .special__old-price {
-  color: grey;
+  color: rgb(79, 78, 78);
 }
 
 .special__button {
-  background-color: #64d289;
+  background-color: #4bb46e;
   padding: 0.3125rem 0.625rem;
   border-radius: 1.25rem;
   color: #fff;
@@ -1063,7 +1063,7 @@ h6 {
 }
 
 .goods-main__button {
-  background-color: #64d289;
+  background-color: #4bb46e;
   border-radius: 1.25rem;
   padding: 0.625rem 1.25rem;
   color: #fff;
@@ -1140,7 +1140,7 @@ h6 {
 
 .goods-secondary__button {
   max-width: 6.875rem;
-  background-color: #64d289;
+  background-color: #4bb46e;
   border-radius: 1.25rem;
   padding: 0.3125rem 0.625rem;
   color: #fff;
@@ -1175,14 +1175,14 @@ h6 {
 }
 
 .advantages__item:first-child {
-  background-color: #64d289;
+  background-color: #4bb46e;
   color: #fff;
   -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
           box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 
 .advantages__item:first-child .advantages__image {
-  color: #64d289;
+  color: #4bb46e;
 }
 
 .advantages__item:first-child .advantages__image-body {
@@ -1194,7 +1194,7 @@ h6 {
   -ms-grid-column-align: start;
       justify-self: start;
   z-index: 1;
-  background-color: #64d289;
+  background-color: #4bb46e;
   padding: 0.625rem;
   height: 3.75rem;
   width: 3.125rem;
@@ -1746,7 +1746,7 @@ h6 {
   }
 
   .special__item-link:hover .special__name {
-    color: #64d289;
+    color: #4bb46e;
   }
 
   .special__button {
